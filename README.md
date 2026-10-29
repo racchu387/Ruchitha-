@@ -1,1 +1,1 @@
-# Ruchitha-
+student event management system 
